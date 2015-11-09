@@ -6,12 +6,13 @@ and is meant to offer an intelligible and maintainable folder structure that all
 ## Libraries
 Humbular includes the following libraries and provides ways to use them together:
 
-* I.js, for client side localization
-* jQuery, as utility library (ajax; promise; etc.)
-* Knockout, for dual way binding
-* Lodash, for utility functions (map, each, etc.)
-* R.js, for dependency injection
-* Simrou.js, for client side routing
+* [Bootstrap](http://getbootstrap.com/), for widgets
+* [I.js](https://github.com/RobertoPrevato/I.js), for client side localization
+* [jQuery](https://jquery.com/), as utility library (ajax; promise; etc.)
+* [Knockout](http://knockoutjs.com/), for dual way binding
+* [Lodash](https://lodash.com/), for utility functions (map, each, etc.)
+* [R.js](https://github.com/RobertoPrevato/R.js), for dependency injection
+* [Simrou.js](https://github.com/buero-fuer-ideen/Simrou), for client side routing
 
 ## Features
 * Folder structure and examples to develop areas
