@@ -18,7 +18,7 @@ Humbular includes the following libraries and provides ways to use them together
 * Provides a simple strategy to handle dependency injection
 * Client side localization strategy
 
-## To test
+## How to try it
 Simply clone or download the repository, and open the index.html in a browser.
 It doesn`t require a running server.
 
