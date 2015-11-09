@@ -1,14 +1,14 @@
 # Humbular
 Humbular is a Single Page Application project template, freely inspired by Durandal.
 It consists of a bundle of different libraries that cover different needs,
-and is meant to offer an intelligible and maintainable folder structure that allows for unit testing, but free from domineering opinions.
+and is meant to offer an intelligible and maintainable folder structure that allows for unit testing, but is free from domineering opinions.
 
 ## Libraries
 Humbular includes the following libraries and provides ways to use them together:
 
 * [Bootstrap](http://getbootstrap.com/), for widgets
 * [I.js](https://github.com/RobertoPrevato/I.js), for client side localization
-* [jQuery](https://jquery.com/), as utility library (ajax; promise; etc.)
+* [jQuery](https://jquery.com/), as utility library (ajax; promise; DOM manipulation; etc.)
 * [Knockout](http://knockoutjs.com/), for dual way binding
 * [Lodash](https://lodash.com/), for utility functions (map, each, etc.)
 * [R.js](https://github.com/RobertoPrevato/R.js), for dependency injection
