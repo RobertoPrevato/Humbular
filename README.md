@@ -3,7 +3,6 @@ Humbular is a Single Page Application project template, freely inspired by Duran
 It consists of a bundle of different libraries that cover different needs,
 and is meant to offer an intelligible and maintainable folder structure that allows for unit testing, but is free from domineering opinions.
 
-## Live demo
 [Live demo](http://ugrose.com/content/demos/humbular/index.html#/).
 
 ## Libraries
