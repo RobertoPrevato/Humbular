@@ -17,7 +17,8 @@ Humbular includes the following libraries and provides ways to use them together
 * [Simrou.js](https://github.com/buero-fuer-ideen/Simrou), for client side routing
 
 ## Features
-* Folder structure and examples to develop areas
+* Code organization strategy
+* Organization of the application in logical areas
 * Provides a simple strategy to handle dependency injection
 * Client side localization strategy
 
