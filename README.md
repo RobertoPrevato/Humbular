@@ -27,5 +27,5 @@ Humbular includes the following libraries and provides ways to use them together
 * LESS compilation into CSS.
 
 ## Tools
-* (Recommended) use the [Knight tool](https://github.com/RobertoPrevato/Knight) to generate external html templates for Knockout
+* The repository includes the [Knight tool](https://github.com/RobertoPrevato/Knight), to pack html files into templates.js files
 
